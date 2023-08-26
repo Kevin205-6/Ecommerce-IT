@@ -5,7 +5,7 @@ cd client
 call npm i
 cd ..
 echo ¡Depencencias del Server!
-cd Server
+cd server
 call npm i
 cd ..
 pause
